@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ![Schematic of PhD thesis](/images/evaporation_driven_buckling_sch.png)
+
 Hello I am Suriya, fourth year PhD student at TU Delft, Netherlands. 
 
 #(/images/evaporation_driven_buckling_sch.png){: .align-right width="300px"}

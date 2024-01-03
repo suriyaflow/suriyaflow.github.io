@@ -10,7 +10,7 @@ redirect_from:
 
 👋 Hello, I am Suriya, a final-year Ph.D. candidate at TU Delft in the Netherlands. 
 
-<img src="./images/evaporation_driven_buckling_sch.png" alt="Alt Text" align="right" width="300">
+<img src="./images/evaporation_driven_buckling_sch2.png" alt="Alt Text" align="right" width="300">
 <!--[Schematic of PhD thesis](/images/evaporation_driven_buckling_sch2.png){: .align-right width = "300px"} -->
 
 <p style="text-align: justify;"> 🔬 I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. In my Ph.D. thesis I focus on evaporation of particle-laden drops and the buckling of such drops. I am supervised by <a href="https://www.tudelft.nl/staff/l.botto/?cHash=7ba1f9f844091f98d5670993cb9cc996">Dr. Lorenzo Botto</a>  in the <a href = "https://www.tudelft.nl/me/over/afdelingen/process-energy/research/complex-fluid-processing">Complex Fluids Processing Group</a> at TU Delft. I try to work on projects that have an impact on climate change. I am also passionate about open science & hardware. Here are some <a href="https://suriyaflow.github.io/suriyaprakash.github.io/opensource/">open source projects</a> that I have developed. </p>

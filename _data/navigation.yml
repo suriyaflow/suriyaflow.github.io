@@ -3,11 +3,14 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=FhvglUoAAAAJ&hl=en
 
+  - title: "Open source projects"
+    url: /opensource/
+
 #  - title: "Talks"
 #    url: /talks/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -18,5 +21,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Open source projects"
-    url: /opensource/
+

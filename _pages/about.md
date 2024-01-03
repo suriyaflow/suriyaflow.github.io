@@ -10,7 +10,7 @@ redirect_from:
 
 Hello I am Suriya, fourth year PhD student at TU Delft, Netherlands. 
 
-<img src="/images/evaporation_driven_buckling_sch.png" alt="Alt Text" align="right" width="300">
+<img src="./images/evaporation_driven_buckling_sch.png" alt="Alt Text" align="right" width="300">
 <!--[Schematic of PhD thesis](/images/evaporation_driven_buckling_sch.png){: .align-right width = "300px"} -->
 
 I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. In my Phd thesis I focus on evaporation driven buckling of drops. 

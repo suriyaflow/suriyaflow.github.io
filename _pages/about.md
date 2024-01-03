@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Schematic of PhD thesis](/images/evaporation_driven_buckling_sch.svg){: .align-right width="300px"}
+![Schematic of PhD thesis](/images/evaporation_driven_buckling_sch.svg){: .align-right}
 
 Hello I am Suriya, fourth year PhD student at TU Delft, Netherlands. 
 

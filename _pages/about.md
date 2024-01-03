@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: # "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: # "suriya's academic website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello I am Suriya, fourth year PhD student at TU Delft, Netherlands. 
+👋 Hello, I am Suriya, a final-year Ph.D. candidate at TU Delft in the Netherlands. 
 
 <img src="./images/evaporation_driven_buckling_sch.png" alt="Alt Text" align="right" width="300">
 <!--[Schematic of PhD thesis](/images/evaporation_driven_buckling_sch.png){: .align-right width = "300px"} -->
 
-I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. In my Phd thesis I focus on evaporation driven buckling of drops. 
+🔬 I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. In my Ph.D. thesis I focus on evaporation of particle-laden drops and the buckling of such drops. I am supervised by [Dr. Lorenzo Botto](https://www.tudelft.nl/staff/l.botto/?cHash=7ba1f9f844091f98d5670993cb9cc996) in the [Complex Fluids Processing Group](https://www.tudelft.nl/me/over/afdelingen/process-energy/research/complex-fluid-processing) at TU Delft. I try to work on projects that have an impact on climate change. I am also passionate about open science & hardware. Here are some [open source projects](https://suriyaflow.github.io/suriyaprakash.github.io/opensource/) that I have developed.
 
 <!-- this is comment and should not appear
 

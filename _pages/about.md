@@ -45,7 +45,7 @@ Selected projects
           <td>
                 <div class="image-container">
                     <img src="./images/spiral_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" height="300" style="margin-right: 0px;">
-                    <div class="description">Controlling the breakup of spiralling liquid jets.</div>
+                    <div class="description"><a href = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/controlling-the-breakup-of-spiralling-jets-results-from-experiments-nonlinear-simulations-and-linear-stability-analysis/06D64EB348A30FFE210F42BE8192E4DF">Controlling the breakup of spiralling liquid jets.</a></div>
                 </div>
             </td>
         </tr>

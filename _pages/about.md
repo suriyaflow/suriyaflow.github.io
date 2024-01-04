@@ -32,24 +32,24 @@ Selected projects
         <tr>
             <td>
                 <div class="image-container">
-                    <img src="./images/evaporation_driven_buckling_sch.png" alt="Evaporation driven buckling of colloidal drops" align="center" width="300" style="margin-right: 0px;">
+                    <img src="./images/evaporation_driven_buckling_sch.png" alt="Evaporation driven buckling of colloidal drops" align="center" height="300" style="margin-right: 0px;">
                     <div class="description">Evaporation driven buckling of colloidal drops.</div>
                 </div>
             </td>
             <td>
                 <div class="image-container">
-                    <img src="./images/buckling_monolayer.png" alt="Buckling of monolayer of plate like particles" align="center" width="300" style="margin-right: 0px;">
+                    <img src="./images/buckling_monolayer.png" alt="Buckling of monolayer of plate like particles" align="center" height="300" style="margin-right: 0px;">
                     <div class="description">Buckling of monolayer of plate like particles.</div>
                 </div>
             </td>
           <td>
                 <div class="image-container">
-                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="275" style="margin-right: 0px;">
+                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" height="300" style="margin-right: 0px;">
                     <div class="description">Controlling the breakup of spiralling liquid jets.</div>
                 </div>
             </td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>
                 <div class="image-container">
                     <img src="image4.jpg" alt="Description of Image 4">
@@ -68,5 +68,5 @@ Selected projects
                     <div class="description">Description for image 6.</div>
                 </div>
             </td>
-        </tr>
+        </tr>-->
     </table>

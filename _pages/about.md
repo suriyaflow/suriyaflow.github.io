@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-👋 Hello, I am Suriya, a final-year Ph.D. candidate at TU Delft in the Netherlands. 🔬 I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. 
+👋 Hello, I am Suriya, a final-year Ph.D. candidate at TU Delft in the Netherlands. 🔬 I am interested in instabilites, self-assembly and pattern formation driven by physicochemical hydrodynamics. I try to work on projects that have an impact on climate change. I am also passionate about <a href="https://suriyaflow.github.io/suriyaprakash.github.io/opensource/">open science & hardware.</a>
 
 
 <div style="display: flex; align-items: center;">
-<p style="text-align: justify;"> 🎓🎓🎓 In my Ph.D. thesis I study evaporation of particle-laden drops and the buckling of such drops. I am supervised by <a href="https://www.tudelft.nl/staff/l.botto/?cHash=7ba1f9f844091f98d5670993cb9cc996">Dr. Lorenzo Botto</a>  in the <a href = "https://www.tudelft.nl/me/over/afdelingen/process-energy/research/complex-fluid-processing">Complex Fluids Processing Group</a> at TU Delft. I try to work on projects that have an impact on climate change. I am also passionate about <a href="https://suriyaflow.github.io/suriyaprakash.github.io/opensource/">open science & hardware.</a>
+<p style="text-align: justify;"> 🎓🎓🎓 In my Ph.D. thesis I study evaporation of particle-laden drops and the buckling of such drops. I am supervised by <a href="https://www.tudelft.nl/staff/l.botto/?cHash=7ba1f9f844091f98d5670993cb9cc996">Dr. Lorenzo Botto</a>  in the <a href = "https://www.tudelft.nl/me/over/afdelingen/process-energy/research/complex-fluid-processing">Complex Fluids Processing Group</a> at TU Delft. 
 
-  🎓🎓 I did my master in Energy, flow and process technology also from TU Delft. During my master's thesis I built an experimental setup that resembles the prilling process which is used to make fertilizers under the supervision of Dr. Wim Paul Breugem and Dr. Burak Eral. I was able to control the process parameters in spinning jet breakup to reduce the production of satellite drops (dust particles) in prilling.
+  🎓🎓 I did my master's in Energy, flow and process technology also from TU Delft. During my master's thesis I built an experimental setup that resembles the prilling process, which is used to make fertilizers. I worked under the supervision of Dr. Wim Paul Breugem and Dr. Burak Eral. I was able to control the process parameters in spinning jet breakup to reduce the production of satellite drops (dust particles) in prilling.
 </p>
 </div>
 
@@ -38,7 +38,7 @@ Selected projects
             </td>
             <td>
                 <div class="image-container">
-                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="300" style="margin-right: 30px;">
+                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="250" style="margin-right: 30px;">
                     <div class="description">Controlling the breakup of spiralling liquid jets.</div>
                 </div>
             </td>

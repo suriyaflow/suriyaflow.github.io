@@ -38,8 +38,8 @@ Selected projects
             </td>
             <td>
                 <div class="image-container">
-                    <img src="image3.jpg" alt="Description of Image 3">
-                    <div class="description">Description for image 3.</div>
+                    <img src="./images/buckling_monolayer.png" alt="Buckling of monolayer of plate like particles" align="center" width="300" style="margin-right: 0px;">
+                    <div class="description">Buckling of monolayer of plate like particles.</div>
                 </div>
             </td>
           <td>

@@ -26,7 +26,7 @@ redirect_from:
   <p style="text-align: justify;">🎓🎓 I did my master in Energy, flow and process technology also from TU Delft. For my thesis I built an experimental setup that resembles the prilling process which is used to make fertilizers under the supervision of Dr. Wim Paul Breugem and Dr. Burak Eral. I was able to control the process parameters in spinning jet breakup to reduce the production of satellite drops (dust particles) in prilling. It is estimated that each prilling tower emits 1500 tons of nitrogen based pollutants in to the air every year. I was able to successfully eliminate the satellite drops in the model prilling machine I built. Read my <a href = "http://resolver.tudelft.nl/uuid:2d4a4fec-0637-4fa4-842e-f6e924cf8369">thesis</a> or our <a href = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/controlling-the-breakup-of-spiralling-jets-results-from-experiments-nonlinear-simulations-and-linear-stability-analysis/06D64EB348A30FFE210F42BE8192E4DF">paper.</a></p>
 </div>
 
-<table>
+<!-- <table>
         <tr>
             <td>
                 <div class="image-container">
@@ -67,4 +67,4 @@ redirect_from:
                 </div>
             </td>
         </tr>
-    </table>
+    </table>-->

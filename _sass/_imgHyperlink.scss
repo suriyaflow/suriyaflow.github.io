@@ -1,0 +1,41 @@
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+td {
+    text-align: center;
+    padding: 10px;
+}
+
+.image-container {
+    display: inline-block;
+    position: relative;
+    vertical-align: top; /* Aligns images correctly in the table cell */
+}
+
+.description {
+    visibility: hidden; /* Initially hidden */
+    opacity: 0;
+    transition: opacity 0.5s, visibility 0s linear 0.5s; /* Add visibility to the transition */
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+    height: 0; /* Initial height */
+    overflow: hidden;
+    transition: height 0.5s ease, opacity 0.5s ease; /* Smooth transition for height and opacity */
+}
+
+.image-container:hover .description {
+    visibility: visible; /* Make visible when hovered */
+    opacity: 1;
+    height: auto; /* Auto height to fit content */
+    transition-delay: 0s; /* Transition delay for smooth effect */
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

@@ -38,14 +38,14 @@ Selected projects
             </td>
             <td>
                 <div class="image-container">
-                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="300" style="margin-right: 0px;">
-                    <div class="description">Controlling the breakup of spiralling liquid jets.</div>
-                </div>
-            </td>
-            <td>
-                <div class="image-container">
                     <img src="image3.jpg" alt="Description of Image 3">
                     <div class="description">Description for image 3.</div>
+                </div>
+            </td>
+          <td>
+                <div class="image-container">
+                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="275" style="margin-right: 0px;">
+                    <div class="description">Controlling the breakup of spiralling liquid jets.</div>
                 </div>
             </td>
         </tr>

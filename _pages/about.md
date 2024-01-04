@@ -32,13 +32,13 @@ Selected projects
         <tr>
             <td>
                 <div class="image-container">
-                    <img src="./images/evaporation_driven_buckling_sch.png" alt="Evaporation driven buckling of colloidal drops" align="center" width="300" style="margin-right: 30px;">
+                    <img src="./images/evaporation_driven_buckling_sch.png" alt="Evaporation driven buckling of colloidal drops" align="center" width="300" style="margin-right: 0px;">
                     <div class="description">Evaporation driven buckling of colloidal drops.</div>
                 </div>
             </td>
             <td>
                 <div class="image-container">
-                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="250" style="margin-right: 30px;">
+                    <img src="./images/spiralling_liq_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" width="300" style="margin-right: 0px;">
                     <div class="description">Controlling the breakup of spiralling liquid jets.</div>
                 </div>
             </td>

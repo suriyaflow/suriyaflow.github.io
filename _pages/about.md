@@ -23,3 +23,46 @@ redirect_from:
   <img src="./images/spiralling_liq_jet.png" alt="Alt Text" width="300" align="right" style="margin-right: 30px;">
   <p style="text-align: justify;">🎓🎓 I did my master in Energy, flow and process technology also from TU Delft. For my thesis I built an experimental setup that resembles the prilling process which is used to make fertilizers under the supervision of Dr. Wim Paul Breugem and Dr. Burak Eral. I was able to control the process parameters in spinning jet breakup to reduce the production of satellite drops (dust particles) in prilling. It is estimated that each prilling tower emits 1500 tons of nitrogen based pollutants in to the air every year. I was able to successfully eliminate the satellite drops in the model prilling machine I built. Read my <a href = "http://resolver.tudelft.nl/uuid:2d4a4fec-0637-4fa4-842e-f6e924cf8369">thesis</a> or our <a href = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/controlling-the-breakup-of-spiralling-jets-results-from-experiments-nonlinear-simulations-and-linear-stability-analysis/06D64EB348A30FFE210F42BE8192E4DF">paper.</a></p>
 </div>
+
+<table>
+        <tr>
+            <td>
+                <div class="image-container">
+                    <img src="image1.jpg" alt="Description of Image 1">
+                    <div class="description">Description for image 1.</div>
+                </div>
+            </td>
+            <td>
+                <div class="image-container">
+                    <img src="image2.jpg" alt="Description of Image 2">
+                    <div class="description">Description for image 2.</div>
+                </div>
+            </td>
+            <td>
+                <div class="image-container">
+                    <img src="image3.jpg" alt="Description of Image 3">
+                    <div class="description">Description for image 3.</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="image-container">
+                    <img src="image4.jpg" alt="Description of Image 4">
+                    <div class="description">Description for image 4.</div>
+                </div>
+            </td>
+            <td>
+                <div class="image-container">
+                    <img src="image5.jpg" alt="Description of Image 5">
+                    <div class="description">Description for image 5.</div>
+                </div>
+            </td>
+            <td>
+                <div class="image-container">
+                    <img src="image6.jpg" alt="Description of Image 6">
+                    <div class="description">Description for image 6.</div>
+                </div>
+            </td>
+        </tr>
+    </table>

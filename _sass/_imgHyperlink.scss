@@ -48,6 +48,10 @@ img {
     visibility: visible; /* Make visible when hovered */
     opacity: 1;
 }
-
+.portfolio-image {
+    width: 300px; 
+    height: 300px; 
+    object-fit: cover; 
+}
 /* Additional Styles (if needed) */
 /* Add any additional CSS styles that you need for your page here */

@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Hello# 3D printed syringes feeder 
+# 3D printed syringes feeder 
 
 <div style="display: flex; align-items: center;">
   <img src="./images/screw_feeder1.png" alt="Alt Text" width="300" align="right" style="margin-right: 30px;">

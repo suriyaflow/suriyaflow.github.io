@@ -16,8 +16,11 @@ td {
     position: relative;
     vertical-align: top; /* Aligns images correctly in the table cell */
     width: 100%; /* Ensure it fills the cell */
+    transition: background-color 0.5s ease;
 }
-
+.image-container:hover {
+    background-color: lightgrey; /* Light grey background on hover */
+}
 /* Image Description Styling */
 .description {
     position: absolute;

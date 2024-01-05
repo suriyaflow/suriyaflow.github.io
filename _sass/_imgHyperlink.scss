@@ -3,14 +3,14 @@ table {
     width: 100%;
     table-layout: fixed;
     border-collapse: collapse; /* Ensure borders collapse into a single border */
-    border: 1px solid black; /* Define the border for the table */
+    border: none; /* Define the border for the table */
 }
 
 /* Table Cell Styling */
 td {
     text-align: center;
     padding: 10px;
-    border: 1px solid black; /* Define the border for each cell */
+    border: none; /* Define the border for each cell */
 }
 
 /* Image Container Styling */

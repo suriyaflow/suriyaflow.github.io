@@ -18,9 +18,6 @@ td {
     display: inline-block;
     position: relative;
     vertical-align: top; /* Aligns images correctly in the table cell */
-    height: 300px; 
-    width: auto; 
-    object-fit: cover;
 }
 
 /* Image Description Styling */
@@ -50,10 +47,6 @@ img {
     visibility: visible; /* Make visible when hovered */
     opacity: 1;
 }
-/*.image-container {*/
-   /* height: 300px; */
-  /*  width: auto; */
- /*   object-fit: cover; */
-/*}*/
+
 /* Additional Styles (if needed) */
 /* Add any additional CSS styles that you need for your page here */

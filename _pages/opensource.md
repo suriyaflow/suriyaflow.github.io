@@ -3,9 +3,6 @@ layout: archive
 title: "Open Source Projects"
 permalink: /opensource/
 author_profile: true
-redirect_from: 
-  - /opensource/
-  - /opensource.html
 ---
 
 {% include base_path %}

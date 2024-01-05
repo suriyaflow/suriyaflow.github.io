@@ -32,19 +32,19 @@ Selected projects
         <tr>
             <td>
                 <div class="image-container">
-                    <img src="./images/evap_buck.png" alt="Evaporation driven buckling of colloidal drops" align="center" style="margin-right: 0px;">
+                    <img class="portfolio-image" src="./images/evap_buck.png" alt="Evaporation driven buckling of colloidal drops" align="center" style="margin-right: 0px;">
                     <div class="description">Evaporation driven buckling of colloidal drops.</div>
                 </div>
             </td>
             <td>
                 <div class="image-container">
-                    <img src="./images/monolayer_buck.png" alt="Buckling of monolayer of plate like particles" align="center" style="margin-right: 0px;">
+                    <img class="portfolio-image" src="./images/monolayer_buck.png" alt="Buckling of monolayer of plate like particles" align="center" style="margin-right: 0px;">
                     <div class="description">Buckling of monolayer of plate like particles.</div>
                 </div>
             </td>
           <td>
                 <div class="image-container">
-                    <img src="./images/spiral_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" style="margin-right: 0px;">
+                    <img class="portfolio-image" src="./images/spiral_jet.png" alt="Controlling the breakup of spiralling liquid jets" align="center" style="margin-right: 0px;">
                     <div class="description"><a href = "https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/controlling-the-breakup-of-spiralling-jets-results-from-experiments-nonlinear-simulations-and-linear-stability-analysis/06D64EB348A30FFE210F42BE8192E4DF">Controlling the breakup of spiralling liquid jets.</a></div>
                 </div>
             </td>

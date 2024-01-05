@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Open source projects"
-permalink: /opensourceprojects/
+permalink: /opensource/
 author_profile: true
 ---
 

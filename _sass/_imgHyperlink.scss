@@ -49,8 +49,9 @@ img {
     opacity: 1;
 }
 .portfolio-image {
-    height: 300px;
-    object-fit: cover;
+    height: 300px; 
+    width: auto; 
+    object-fit: cover; 
 }
 /* Additional Styles (if needed) */
 /* Add any additional CSS styles that you need for your page here */

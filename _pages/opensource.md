@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.opensourceprojects reversed %}
+{% for post in site.opensource reversed %}
   {% include archive-single.html %}
 {% endfor %}

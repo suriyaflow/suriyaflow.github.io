@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Open Source Projects"
+title: ""
 permalink: /opensource/
 author_profile: true
 ---

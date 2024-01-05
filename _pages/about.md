@@ -32,7 +32,7 @@ Selected projects
         <tr>
             <td>
                 <div class="image-container">
-                    <img class="portfolio-image" src="./images/evap_buck.png" alt="Evaporation driven buckling of colloidal drops" align="center" style="margin-right: 0px; height: 200px; width: auto;">
+                    <img class="portfolio-image" src="./images/evap_buck.png" alt="Evaporation driven buckling of colloidal drops" align="center" style="margin-right: 0px; height: 200px; width: 260px;">
                     <div class="description">Evaporation driven buckling of colloidal drops.</div>
                 </div>
             </td>
